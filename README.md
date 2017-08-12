@@ -12,30 +12,53 @@ Testes criado para estudos de Design Patterns
 
 
 Padrões criativos
+
   Fábrica abstrata -- Cria uma instância de várias famílias de aulas
+  
   Construtor -- Separa a construção do objeto da sua representação
+ 
   Método de Fábrica -- Cria uma instância de várias classes derivadas
+  
   Protótipo --	Uma instância totalmente inicializada a ser copiada ou clonada
+  
   Singleton --	Uma classe da qual apenas uma única instância pode existir
 
 Padrões Estruturais
+
   Adaptador --	Corresponder interfaces de diferentes classes
+  
   Ponte --	Separa a interface de um objeto de sua implementação
+  
   Composto --	Uma estrutura em árvore de objetos simples e compostos
+  
   Decorador --	Adicione responsabilidades dinamicamente aos objetos
+  
   Fachada -- Uma única classe que representa um subsistema inteiro
+  
   Peso mosca --	Uma instância de grão fino usada para compartilhamento eficiente
+  
   Proxy --	Um objeto que representa outro objeto
 
 Padrões comportamentais
+
   Cadeia de Resp. -- Uma maneira de passar um pedido entre uma cadeia de objetos
+  
   Comando -- Encapsular uma solicitação de comando como um objeto
+  
   Intérprete -- Uma maneira de incluir elementos de idioma em um programa
+  
   Iterator -- Seqüencialmente acessar os elementos de uma coleção
+  
   Mediador -- Define comunicação simplificada entre classes
+  
   Lembrança --	Capture e restaure o estado interno de um objeto
+  
   Observador --	Uma maneira de notificar a mudança para várias aulas
+  
   Estado --	Alterar o comportamento de um objeto quando seu estado muda
+  
   Estratégia --	Encapsula um algoritmo dentro de uma classe
+  
   Método do Modelo --	Adiar as etapas exatas de um algoritmo para uma subclasse
+  
   Visitante --	Define uma nova operação para uma classe sem alteração
