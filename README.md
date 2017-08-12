@@ -1,7 +1,8 @@
 # DesignPatternsExamples
 Testes criado para estudos de Design Patterns
 
-    Segundo Gamma (2000), projetar um software orientado a objeto nunca foi uma tarefa fácil, mas a busca por reutilização de código vem sendo cada vez maior, para tornar as aplicações finais mais poderosas com o menor esforço possível do programador em curto espaço de tempo. Porem essa tarefa de reutilização de código é algo muito complexo e difícil que normalmente é executado com eficiência por projetistas experientes.  
+    
+   Segundo Gamma (2000), projetar um software orientado a objeto nunca foi uma tarefa fácil, mas a busca por reutilização de código vem sendo cada vez maior, para tornar as aplicações finais mais poderosas com o menor esforço possível do programador em curto espaço de tempo. Porem essa tarefa de reutilização de código é algo muito complexo e difícil que normalmente é executado com eficiência por projetistas experientes.  
 
     Devido a esse novo enfoque surgiu à idéia de um catálogo com Padrões de Projetos (Design Patterns em inglês), os quais são uma espécie de manual de boas práticas a serem seguidas na estruturação de projeto de software, que ajudam a escolher as alternativas de projeto que tornam um sistema reutilizável e a evitar as alternativas que possam comprometer essa reutilização. 
 
