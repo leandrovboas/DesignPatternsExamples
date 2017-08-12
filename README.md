@@ -11,6 +11,8 @@ Testes criado para estudos de Design Patterns
   Mais importante do que entender como é a implementação de um padrão de projeto, é entender a motivação do padrão: em quais casos ele faz sentido e deve ser aplicado. 
 
 
+
+
 Padrões criativos
 
   Fábrica abstrata -- Cria uma instância de várias famílias de aulas
@@ -22,6 +24,8 @@ Padrões criativos
   Protótipo --	Uma instância totalmente inicializada a ser copiada ou clonada
   
   Singleton --	Uma classe da qual apenas uma única instância pode existir
+  
+  
 
 Padrões Estruturais
 
@@ -38,6 +42,9 @@ Padrões Estruturais
   Peso mosca --	Uma instância de grão fino usada para compartilhamento eficiente
   
   Proxy --	Um objeto que representa outro objeto
+  
+  
+  
 
 Padrões comportamentais
 
