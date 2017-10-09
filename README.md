@@ -20,13 +20,13 @@
 
 
  ## Uma breve introdução
-	Segundo Gamma (2000), projetar um software orientado a objeto nunca foi uma tarefa fácil, mas a busca por reutilização de código vem sendo cada vez maior, para tornar as aplicações finais mais poderosas com o menor esforço possível do programador em curto espaço de tempo. Porem essa tarefa de reutilização de código é algo muito complexo e difícil que normalmente é executado com eficiência por projetistas experientes.  
+Segundo Gamma (2000), projetar um software orientado a objeto nunca foi uma tarefa fácil, mas a busca por reutilização de código vem sendo cada vez maior, para tornar as aplicações finais mais poderosas com o menor esforço possível do programador em curto espaço de tempo. Porem essa tarefa de reutilização de código é algo muito complexo e difícil que normalmente é executado com eficiência por projetistas experientes.  
   
-  Devido a esse novo enfoque surgiu à ideia de um catálogo com Padrões de Projetos (Design Patterns em inglês), os quais são uma espécie de manual de boas práticas a serem seguidas na estruturação de projeto de software, que ajudam a escolher as alternativas de projeto que tornam um sistema reutilizável e a evitar as alternativas que possam comprometer essa reutilização. 
+Devido a esse novo enfoque surgiu à ideia de um catálogo com Padrões de Projetos (Design Patterns em inglês), os quais são uma espécie de manual de boas práticas a serem seguidas na estruturação de projeto de software, que ajudam a escolher as alternativas de projeto que tornam um sistema reutilizável e a evitar as alternativas que possam comprometer essa reutilização. 
   
-  Os padrões de design são soluções para problemas de design de software que você encontra continuamente em seu dia a dia no desenvolvimento de aplicativos. Os padrões são sobre projetos reutilizáveis e interações de objetos.
+Os padrões de design são soluções para problemas de design de software que você encontra continuamente em seu dia a dia no desenvolvimento de aplicativos. Os padrões são sobre projetos reutilizáveis e interações de objetos.
   
-  Mais importante do que entender como é a implementação de um padrão de projeto, é entender a motivação do padrão: em quais casos ele faz sentido e deve ser aplicado.
+Mais importante do que entender como é a implementação de um padrão de projeto, é entender a motivação do padrão: em quais casos ele faz sentido e deve ser aplicado.
 
 
 ## Padrões criativos
