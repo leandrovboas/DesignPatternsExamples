@@ -10,6 +10,8 @@ Testes criado para estudos de Design Patterns
 
   Mais importante do que entender como é a implementação de um padrão de projeto, é entender a motivação do padrão: em quais casos ele faz sentido e deve ser aplicado. 
 
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)]()
+[![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)]()
 
 
 
