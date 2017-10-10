@@ -11,12 +11,13 @@
  
 
 [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)]()
-[![GitHub questão autor](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg)]()
-[![questão GitHub última atualização](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg)]()
+[![GitHub issue author](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg)]()
+[![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)]()
+[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)]()
 [![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)]()
 [![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)]()
-[![Pesquisa Github contador de visitas](https://img.shields.io/github/search/torvalds/linux/goto.svg)]()
+[![Github search hit counter](https://img.shields.io/github/search/torvalds/linux/goto.svg)]()
 
 
  ## Uma breve introdução
