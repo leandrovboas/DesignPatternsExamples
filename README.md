@@ -46,7 +46,7 @@ Mais importante do que entender como é a implementação de um padrão de proje
 
 ## Padrões comportamentais
 
-  * [Chain of Responsibility](ChainOfResponsibility/README.md) -- Uma maneira de passar um pedido entre uma cadeia de objetos
+  * [Chain of Responsibility](ChainOfResponsibility) -- Uma maneira de passar um pedido entre uma cadeia de objetos
   * Command -- Encapsular uma solicitação de comando como um objeto
   * Interpreter -- Uma maneira de incluir elementos de idioma em um programa
   * Iterator -- Seqüencialmente acessar os elementos de uma coleção
@@ -54,6 +54,6 @@ Mais importante do que entender como é a implementação de um padrão de proje
   * Memento --	Capture e restaure o estado interno de um objeto
   * Observer --	Uma maneira de notificar a mudança para várias aulas=
   * State --	Alterar o comportamento de um objeto quando seu estado muda
-  * [Strategy](StrategyExemples/README.md) --	Encapsula um algoritmo dentro de uma classe
+  * [Strategy](StrategyExemples) --	Encapsula um algoritmo dentro de uma classe
   * Template Method --	Adiar as etapas exatas de um algoritmo para uma subclasse
   * Visitor --	Define uma nova operação para uma classe sem alteração
