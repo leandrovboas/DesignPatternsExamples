@@ -1,6 +1,0 @@
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPatternInvestidor\obj\Debug\ExempleStrategyPatternInvestidor.csprojResolveAssemblyReference.cache
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPatternInvestidor\bin\Debug\ExempleStrategyPatternInvestidor.exe.config
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPatternInvestidor\bin\Debug\ExempleStrategyPatternInvestidor.exe
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPatternInvestidor\bin\Debug\ExempleStrategyPatternInvestidor.pdb
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPatternInvestidor\obj\Debug\ExempleStrategyPatternInvestidor.exe
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPatternInvestidor\obj\Debug\ExempleStrategyPatternInvestidor.pdb

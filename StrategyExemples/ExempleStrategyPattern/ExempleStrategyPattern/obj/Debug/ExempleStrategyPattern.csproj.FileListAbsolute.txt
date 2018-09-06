@@ -1,6 +1,0 @@
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPattern\bin\Debug\ExempleStrategyPattern.exe.config
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPattern\bin\Debug\ExempleStrategyPattern.exe
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPattern\bin\Debug\ExempleStrategyPattern.pdb
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPattern\obj\Debug\ExempleStrategyPattern.csprojResolveAssemblyReference.cache
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPattern\obj\Debug\ExempleStrategyPattern.exe
-C:\Users\leandro.boas\Desktop\VilasBoas\Git\MyProjects\DesignPatterns\Strategy\ExempleStrategyPattern\ExempleStrategyPattern\obj\Debug\ExempleStrategyPattern.pdb
