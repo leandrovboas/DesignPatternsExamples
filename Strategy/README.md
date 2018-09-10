@@ -1,17 +1,10 @@
-# ExempleStrategyPattern
-Testes criado para estudos de Design Patterns
-
-Defina uma família de algoritmos, encapsule cada um e fazer com que o método delegue o algoritmo para uma instância de Strategy.
+# Strategy
+Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, encapsular cada um deles e torná-los intercambiáveis. Strategy permite que o algoritmo varie independentemente dos clientes que o usam.
 
 # Aplicabilidade
 
 Em resumo o padrão Strategy pode ser utilizado quando se tem as seguintes situações:
 
-Quando muitas classes relacionadas diferem apenas no seu comportamento;
+|-> Quando um objeto deve ser capaz de fazer a mesma tarefa de várias maneiras diferentes. Esse pattern te permite alterar o comportamento do objeto em tempo de execução, fornecendo sub-objetos que realmente executam o trabalho.
 
-|-> Quando necessita-se de variantes de um algoritmo;
-
-|-> Quando se precisa ocultar do usuário a exposição das estruturas de dados complexas, específicas do algoritmo;
-
-|-> Quando uma classe define muitos comportamentos e por sua vez eles aparecem como diversos “IFs”. Com isso esses comandos condicionais são movidos para sua própria classe Strat
 
