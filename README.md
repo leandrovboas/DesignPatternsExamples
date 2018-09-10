@@ -14,7 +14,7 @@
  
  Abaixo segue uma lista com todos os padro citados no [dofactory](http://www.dofactory.com/net/design-patterns) e conforme eu for concluindo o exemplo colocarei o link direto para a página com os códigos, fazendo assim que a lista servira como um índice para a navegação entre os exemplos.
  
- Para cada exemplo criado, criarei um breve resumo com uma pequena explicação.
+ Para cada exemplo, criarei um breve resumo com uma pequena explicação.
 
  ## Uma breve introdução
 Segundo Gamma (2000), projetar um software orientado a objeto nunca foi uma tarefa fácil, mas a busca por reutilização de código vem sendo cada vez maior, para tornar as aplicações finais mais poderosas com o menor esforço possível do programador em curto espaço de tempo. Porem essa tarefa de reutilização de código é algo muito complexo e difícil que normalmente é executado com eficiência por projetistas experientes.  
