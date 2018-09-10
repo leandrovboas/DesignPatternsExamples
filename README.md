@@ -6,7 +6,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)]()
 [![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)]()
 
-### Testes criado para estudos de Design Patterns
+### Estudos de Design Patterns
 
   Este projeto consiste em criar uma solution para exemplificar alguns PADRÕES DE PROJETOS seguindo as premissas do livro [Padrões de Projeto - Soluções Reutilizáveis de Software Orientado a Objetos](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados-ebook/dp/B016N8RJUQ)
  
